@@ -83,7 +83,7 @@ echo $NEAR_ENV
 
 ### 节点环境
 
-* Chunk Only Producer 节点的硬件要求如下，目前 Shardnet 存储占用为30GB左右，如果只是参加 StakingWar 的话可以暂时使用稍小的存储![Hardware](Hardware.png)
+* Chunk Only Producer 节点的硬件要求如下，目前 Shardnet 存储占用为30GB左右，如果只是参加 StakingWar 的话可以暂时使用稍小的存储![Hardware](img/Hardware.png)
 * 首先可以检查下 CPU 是否支持
 
 ```shell
